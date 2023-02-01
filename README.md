@@ -1,2 +1,2 @@
-﻿# tetris don't check this project is not ready :)
- :)
+﻿# tetris don't check this project is not ready.
+
