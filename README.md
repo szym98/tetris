@@ -4,7 +4,7 @@
     
             - KEY Left( Moves the block to the left)
       
-             - KEY.Right (Moves the block to the right)
+             - KEY Right (Moves the block to the right)
            
              - KEY Up ( Rotate a block) )
         
