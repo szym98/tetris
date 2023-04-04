@@ -12,7 +12,7 @@ falls = () => {
 
     for (let i = 0; i < fall_count; i++) {
 
-        let img_index = Math.floor(Math.random() * 6) + 1
+
 
         let x = Math.floor(Math.random() * window.innerWidth)
         let y = Math.floor(Math.random() * window.innerHeight)
@@ -23,8 +23,8 @@ falls = () => {
 
         let img = document.createElement('img')
 
-        img.className = 'fall'
-        img.src = 'static/assets/images/' + img_index + '.png'
+         img.className = 'fall'
+
 
         img.style.width = 1 + size + 'px'
         img.style.height = 'auto'
