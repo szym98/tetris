@@ -1,4 +1,4 @@
- How to play in tetris (
+ How to play tetris (
            
            - Key down(  Moves the block down faster)
     
