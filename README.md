@@ -1,10 +1,10 @@
  How to play tetris (
            
-           - Key down(  Moves the block down faster)
+           - Down key(  Moves the block down faster)
     
-            - KEY Left( Moves the block to the left)
+            - Left key( Moves the block to the left)
       
-             - KEY Right (Moves the block to the right)
+             - Right key (Moves the block to the right)
            
-             - KEY Up ( Rotate a block) )
+             - Up key ( Rotate a block) )
         
