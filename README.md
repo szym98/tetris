@@ -6,5 +6,5 @@
       
              - Right key (Moves the block to the right)
            
-             - Up key ( Rotate a block) )
+             - Up key ( Rotate a block )
         
